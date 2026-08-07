@@ -41,7 +41,7 @@
 
 <br>
 
-<!-- ================= EDUCATION & PASSION (ORIGINAL IDEA) ================= -->
+<!-- ============================ EDUCATION ============================ -->
 <p align="center">
   <img
     src="./assets/education-card.svg"
@@ -50,7 +50,7 @@
   />
 </p>
 
-
+<!-- ====================== PASSION AND INTERESTS ====================== -->
 <p align="center">
   <img
     src="./assets/interests-card.svg"
@@ -59,7 +59,7 @@
   />
 </p>
 
-<!-- =========================== SKILLS =========================== -->
+<!-- ============================== SKILLS ============================== -->
 <p align="center">
   <img
     src="./assets/skills-card.svg"
@@ -68,7 +68,7 @@
   />
 </p>
 
-<!-- ======================= CURRENT FOCUS ======================= -->
+<!-- ========================== CURRENT FOCUS ========================== -->
 <p align="center">
   <img
     src="./assets/current-focus-card.svg"
@@ -79,7 +79,7 @@
 
 <br>
 
-<!-- ======================= CONNECT WITH ME ======================= -->
+<!-- ========================= CONNECT WITH ME ========================= -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -99,17 +99,34 @@
   </a>
 </p>
 
+<br>
+
+<!-- =========================== PROFILE VIEWS =========================== -->
+<p align="center">
+  <img
+    src="./assets/profile-views-card.svg"
+    alt="Profile Views"
+    width="100%"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"
-    alt="Profile views"
+    alt="Umma Salma Mim profile views"
   />
 </p>
 
 <br>
 
-<!-- ====================== GITHUB STATISTICS ====================== -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- ========================= GITHUB STATISTICS ========================= -->
+<p align="center">
+  <img
+    src="./assets/github-statistics-card.svg"
+    alt="GitHub Statistics"
+    width="100%"
+  />
+</p>
 
 <div align="center">
   <a href="https://github.com/ummasalmamim">
@@ -130,24 +147,36 @@
 
 <br>
 
-<!-- ==================== PROGRAMMING LANGUAGES ==================== -->
-<h2 align="center">💻 My Programming Languages</h2>
+<!-- ====================== MY PROGRAMMING LANGUAGES ====================== -->
+<p align="center">
+  <img
+    src="./assets/programming-languages-card.svg"
+    alt="My Programming Languages"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ummasalmamim&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ummasalmamim&theme=tokyonight"
     alt="Languages by repository"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ummasalmamim&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ummasalmamim&theme=tokyonight"
     alt="Languages by commit"
   />
 </p>
 
 <br>
 
-<!-- ======================= VAUNT BADGE ======================= -->
-<h2 align="center">🏅 Contribution Badge</h2>
+<!-- ========================= CONTRIBUTION BADGE ========================= -->
+<p align="center">
+  <img
+    src="./assets/contribution-badge-card.svg"
+    alt="Contribution Badge"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img
@@ -158,7 +187,7 @@
 
 <br>
 
-<!-- ======================== GITHUB STREAK ======================== -->
+<!-- =========================== GITHUB STREAK =========================== -->
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&background=000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%9A%A1+My+GitHub+Contribution+Streak;%F0%9F%94%A5+Coding+Every+Day;%F0%9F%9A%80+Consistency+Creates+Success"
@@ -185,8 +214,14 @@
 
 <br>
 
-<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
-<h2 align="center">⚡ Contribution Activity</h2>
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+<p align="center">
+  <img
+    src="./assets/contribution-activity-card.svg"
+    alt="Contribution Activity"
+    width="100%"
+  />
+</p>
 
 <div align="center">
   <a href="https://github.com/ummasalmamim">
@@ -200,7 +235,9 @@
 
 <br>
 
-<!-- =========================== FOOTER =========================== -->
+<!-- ============================== FOOTER ============================== -->
 <div align="center">
+  <strong>Code • Create • Improve • Repeat</strong>
+  <br><br>
   <sub>Thanks for visiting my GitHub profile. ✨</sub>
 </div>
