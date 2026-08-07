@@ -42,30 +42,251 @@
 
 <br>
 
-<!-- ======================== ABOUT ME CARDS ======================== -->
+<!-- ================= EDUCATION & PASSION (ORIGINAL IDEA) ================= -->
 
-<h2 align="center">🖤 About Me</h2>
+<svgwidth="900"height="180"viewBox="0 0 900 180"xmlns="http://www.w3.org/2000/svg"role="img"aria-label="CSE student at BRAC University"
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=20&duration=2200&pause=900&color=00F7FF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=145&lines=%F0%9F%8E%93+EDUCATION;Computer+Science+and+Engineering+(CSE);BRAC+University"
-        alt="Education — CSE student at BRAC University"
-        width="100%"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=19&duration=2200&pause=900&color=FF00E5&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=420&height=145&lines=%F0%9F%A7%A0+PASSION+%26+INTERESTS;Machine+Learning+%E2%80%A2+Artificial+Intelligence;Research-based+Projects"
-        alt="Passion for machine learning, artificial intelligence and research-based projects"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
 
-<br>
+
+  <defs>
+    <linearGradient id="cardBorder" x1="0" y1="0" x2="900" y2="180">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+<linearGradient id="iconGradient" x1="25" y1="25" x2="95" y2="100">
+  <stop offset="0%" stop-color="#00E5FF"/>
+  <stop offset="100%" stop-color="#A855F7"/>
+</linearGradient>
+
+<filter id="softGlow">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+  </defs>
+
+  <!-- Black card -->
+
+<rect
+ x="3"
+ y="3"
+ width="894"
+ height="174"
+ rx="22"
+ fill="#030303"
+ stroke="url(#cardBorder)"
+ stroke-width="2"
+/>
+
+<rect
+ x="14"
+ y="14"
+ width="872"
+ height="152"
+ rx="16"
+ fill="#090B10"
+/>
+
+  <!-- Graduation cap -->
+
+  <g transform="translate(38 55)" filter="url(#softGlow)">
+    <path
+      d="M0 25 L43 5 L86 25 L43 45 Z"
+      fill="url(#iconGradient)"
+    />
+
+<path
+  d="M17 34 V51 C27 63 59 63 69 51 V34"
+  fill="none"
+  stroke="#FFFFFF"
+  stroke-width="4"
+  stroke-linecap="round"
+/>
+
+<path
+  d="M86 25 V56"
+  stroke="#EC4899"
+  stroke-width="4"
+  stroke-linecap="round"
+/>
+
+<circle cx="86" cy="61" r="5" fill="#EC4899"/>
+
+  </g>
+
+  <!-- Heading -->
+
+<textx="150"y="48"fill="#8B949E"font-family="Georgia, 'Times New Roman', serif"font-size="15"font-weight="700"letter-spacing="4"
+
+
+
+EDUCATION
+
+  </text>
+
+  <!-- First line -->
+
+<textx="150"y="86"fill="#FFFFFF"font-family="Georgia, 'Times New Roman', serif"font-size="22"font-weight="700"
+
+
+
+I am a student of Computer Science and Engineering
+
+  </text>
+
+  <!-- Second line -->
+
+<textx="150"y="124"fill="#00E5FF"font-family="Georgia, 'Times New Roman', serif"font-size="24"font-weight="700"
+
+
+
+(CSE) at BRAC University.
+
+  </text>
+
+  <!-- Decorative dots -->
+
+  <circle cx="840" cy="48" r="5" fill="#00E5FF"/>
+  <circle cx="860" cy="48" r="5" fill="#7C3AED"/>
+  <circle cx="880" cy="48" r="5" fill="#EC4899"/>
+</svg>
+
+<svgwidth="900"height="190"viewBox="0 0 900 190"xmlns="http://www.w3.org/2000/svg"role="img"aria-label="Machine Learning, Artificial Intelligence and Research interests"
+
+
+
+  <defs>
+    <linearGradient id="cardBorder" x1="0" y1="0" x2="900" y2="190">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+
+<linearGradient id="iconGradient" x1="25" y1="20" x2="95" y2="100">
+  <stop offset="0%" stop-color="#00E5FF"/>
+  <stop offset="100%" stop-color="#A855F7"/>
+</linearGradient>
+
+<filter id="softGlow">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+  </defs>
+
+  <!-- Outer card -->
+
+<rect
+ x="3"
+ y="3"
+ width="894"
+ height="184"
+ rx="22"
+ fill="#030303"
+ stroke="url(#cardBorder)"
+ stroke-width="2"
+/>
+
+  <!-- Inner card -->
+
+<rect
+ x="14"
+ y="14"
+ width="872"
+ height="162"
+ rx="16"
+ fill="#090B10"
+/>
+
+  <!-- AI / brain style icon -->
+
+  <g transform="translate(43 58)" filter="url(#softGlow)">
+    <path
+      d="M40 5
+         C25 5 17 15 18 27
+         C7 31 5 46 14 53
+         C10 67 24 78 37 72
+         C43 82 59 79 62 68
+         C76 70 84 56 76 46
+         C84 34 74 20 62 21
+         C59 10 49 5 40 5Z"
+      fill="none"
+      stroke="url(#iconGradient)"
+      stroke-width="4"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+<circle cx="32" cy="27" r="4" fill="#00E5FF"/>
+<circle cx="51" cy="21" r="4" fill="#A855F7"/>
+<circle cx="61" cy="42" r="4" fill="#EC4899"/>
+<circle cx="40" cy="55" r="4" fill="#00E5FF"/>
+<circle cx="24" cy="48" r="4" fill="#A855F7"/>
+
+<path
+  d="M32 27 L51 21 L61 42 L40 55 L24 48 L32 27"
+  fill="none"
+  stroke="#FFFFFF"
+  stroke-width="2"
+  opacity="0.8"
+/>
+
+  </g>
+
+  <!-- Heading -->
+
+<textx="150"y="48"fill="#8B949E"font-family="Georgia, 'Times New Roman', serif"font-size="15"font-weight="700"letter-spacing="4"
+
+
+
+PASSION &amp; INTERESTS
+
+  </text>
+
+  <!-- Main text line 1 -->
+
+<textx="150"y="83"fill="#FFFFFF"font-family="Georgia, 'Times New Roman', serif"font-size="24"font-weight="700"
+
+
+
+I am passionate about
+
+  </text>
+
+  <!-- Main text line 2 -->
+
+<textx="150"y="118"fill="#00E5FF"font-family="Georgia, 'Times New Roman', serif"font-size="23"font-weight="700"
+
+
+
+Machine Learning (ML), Artificial Intelligence (AI),
+
+  </text>
+
+  <!-- Main text line 3 -->
+
+<textx="150"y="150"fill="#EC4899"font-family="Georgia, 'Times New Roman', serif"font-size="22"font-weight="700"
+
+
+
+and Research-based projects.
+
+  </text>
+
+  <!-- Decorative dots -->
+
+  <circle cx="840" cy="48" r="5" fill="#00E5FF"/>
+  <circle cx="860" cy="48" r="5" fill="#7C3AED"/>
+  <circle cx="880" cy="48" r="5" fill="#EC4899"/>
+</svg>
 
 <!-- =========================== SKILLS =========================== -->
 
