@@ -1,6 +1,5 @@
 ![I am a student of Computer Science and Engineering (CSE) at BRAC University](https://img.magnific.com/premium-photo/lofi-girl-student-studying-desk-with-book-meteor-starfall-night-anime-manga-style-wallpaper_598925-8674.jpg)
 
-##introduction 
 
 <!-- Black Theme GitHub Introduction -->
 
