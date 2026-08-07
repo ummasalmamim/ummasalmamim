@@ -1,0 +1,83 @@
+<svg
+  width="900"
+  height="280"
+  viewBox="0 0 900 280"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Skills: Python, HTML, CSS and PHP"
+>
+  <defs>
+    <linearGradient id="skillsBorder" x1="0" y1="0" x2="900" y2="280">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="skillsGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="3" y="3" width="894" height="274" rx="24" fill="#030303" stroke="url(#skillsBorder)" stroke-width="2"/>
+  <rect x="14" y="14" width="872" height="252" rx="18" fill="#090B10"/>
+
+  <text x="34" y="50" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">TECHNICAL SKILLS</text>
+  <text x="34" y="71" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">LANGUAGES • WEB TECHNOLOGIES</text>
+
+  <circle cx="840" cy="45" r="5" fill="#00E5FF"/>
+  <circle cx="860" cy="45" r="5" fill="#7C3AED"/>
+  <circle cx="880" cy="45" r="5" fill="#EC4899"/>
+
+  <!-- Python -->
+  <g transform="translate(30 96)">
+    <rect width="195" height="140" rx="17" fill="#05070B" stroke="#17434B" stroke-width="1.5"/>
+    <rect width="195" height="5" rx="2.5" fill="#00E5FF"/>
+    <g transform="translate(66 22)" filter="url(#skillsGlow)">
+      <circle cx="31" cy="31" r="29" fill="#07161A" stroke="#00E5FF" stroke-width="2"/>
+      <path d="M24 13 C19 13 16 16 16 21 V28 H31 V31 H13 C8 31 5 35 5 40 V46 C5 51 9 55 14 55 H21 V47 C21 42 25 38 30 38 H42 C47 38 51 34 51 29 V21 C51 16 47 13 42 13 Z" fill="none" stroke="#00E5FF" stroke-width="2.3" stroke-linejoin="round"/>
+      <path d="M38 49 C43 49 46 46 46 41 V34 H31 V31 H49 C54 31 57 27 57 22 V16 C57 11 53 7 48 7 H41 V15 C41 20 37 24 32 24 H20 C15 24 11 28 11 33 V41 C11 46 15 49 20 49 Z" fill="none" stroke="#FFFFFF" stroke-width="2.3" stroke-linejoin="round" opacity="0.95"/>
+      <circle cx="36" cy="19" r="2" fill="#FFFFFF"/>
+      <circle cx="26" cy="43" r="2" fill="#00E5FF"/>
+    </g>
+    <text x="97.5" y="116" text-anchor="middle" fill="#00E5FF" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">Python</text>
+  </g>
+
+  <!-- HTML -->
+  <g transform="translate(245 96)">
+    <rect width="195" height="140" rx="17" fill="#05070B" stroke="#3B255C" stroke-width="1.5"/>
+    <rect width="195" height="5" rx="2.5" fill="#A855F7"/>
+    <g transform="translate(66 22)" filter="url(#skillsGlow)">
+      <circle cx="31" cy="31" r="29" fill="#130B20" stroke="#A855F7" stroke-width="2"/>
+      <path d="M15 12 H47 L44 48 L31 55 L18 48 Z" fill="none" stroke="#A855F7" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M22 21 H41 L40 27 H28 L29 33 H39 L38 43 L31 47 L24 43 L23.5 38" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="97.5" y="116" text-anchor="middle" fill="#A855F7" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">HTML</text>
+  </g>
+
+  <!-- CSS -->
+  <g transform="translate(460 96)">
+    <rect width="195" height="140" rx="17" fill="#05070B" stroke="#28336A" stroke-width="1.5"/>
+    <rect width="195" height="5" rx="2.5" fill="#6C63FF"/>
+    <g transform="translate(66 22)" filter="url(#skillsGlow)">
+      <circle cx="31" cy="31" r="29" fill="#0C1024" stroke="#6C63FF" stroke-width="2"/>
+      <path d="M15 12 H47 L44 48 L31 55 L18 48 Z" fill="none" stroke="#6C63FF" stroke-width="2.4" stroke-linejoin="round"/>
+      <path d="M23 21 H41 L40 27 H29 L28.5 33 H39 L38 43 L31 47 L24 43 L24.5 38" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="97.5" y="116" text-anchor="middle" fill="#8B83FF" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">CSS</text>
+  </g>
+
+  <!-- PHP -->
+  <g transform="translate(675 96)">
+    <rect width="195" height="140" rx="17" fill="#05070B" stroke="#4C193B" stroke-width="1.5"/>
+    <rect width="195" height="5" rx="2.5" fill="#EC4899"/>
+    <g transform="translate(66 22)" filter="url(#skillsGlow)">
+      <circle cx="31" cy="31" r="29" fill="#1B0A16" stroke="#EC4899" stroke-width="2"/>
+      <ellipse cx="31" cy="31" rx="23" ry="14" fill="none" stroke="#EC4899" stroke-width="2.4"/>
+      <text x="31" y="37" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-style="italic" font-weight="700">php</text>
+    </g>
+    <text x="97.5" y="116" text-anchor="middle" fill="#EC4899" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="700">PHP</text>
+  </g>
+</svg>
