@@ -153,7 +153,92 @@
 </svg>
 
 
+\<svg
+width="900"
+height="180"
+viewBox="0 0 900 180"
+xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)"
+role="img"
+aria-label="Machine Learning, Artificial Intelligence and Research interests"
 
+>
+
+```
+<linearGradient id="iconGradient" x1="25" y1="20" x2="95" y2="100">
+  <stop offset="0%" stop-color="#00E5FF"/>
+  <stop offset="100%" stop-color="#A855F7"/>
+</linearGradient>
+
+<filter id="softGlow">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+```
+
+
+
+```
+<circle cx="32" cy="27" r="4" fill="#00E5FF"/>
+<circle cx="51" cy="21" r="4" fill="#A855F7"/>
+<circle cx="61" cy="42" r="4" fill="#EC4899"/>
+<circle cx="40" cy="55" r="4" fill="#00E5FF"/>
+<circle cx="24" cy="48" r="4" fill="#A855F7"/>
+
+<path
+  d="M32 27 L51 21 L61 42 L40 55 L24 48 L32 27"
+  fill="none"
+  stroke="#FFFFFF"
+  stroke-width="2"
+  opacity="0.8"
+/>
+```
+
+\<text
+x="150"
+y="48"
+fill="#8B949E"
+font-family="Georgia, 'Times New Roman', serif"
+font-size="15"
+font-weight="700"
+letter-spacing="4"
+
+>
+
+```
+PASSION &amp; INTERESTS
+```
+
+\<text
+x="150"
+y="87"
+fill="#FFFFFF"
+font-family="Georgia, 'Times New Roman', serif"
+font-size="23"
+font-weight="700"
+
+>
+
+```
+I am passionate about 
+```
+
+\<text
+x="150"
+y="125"
+fill="#00E5FF"
+font-family="Georgia, 'Times New Roman', serif"
+font-size="23"
+font-weight="700"
+
+>
+
+```
+Machine Learning (ML), Artificial Intelligence (AI), and Research-based projects.
+
+```
 
 
 I am passionate about Machine Learning, Artificial Intelligence, and Research-based projects.
