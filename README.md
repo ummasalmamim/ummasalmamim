@@ -60,12 +60,11 @@
 </p>
 
 <!-- =========================== SKILLS =========================== -->
-<h2 align="center">🛠️ Skills</h2>
-
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,html,css,php&theme=dark"
-    alt="Python, HTML, CSS and PHP"
+    src="./assets/skills-card.svg"
+    alt="Technical skills: Python, HTML, CSS and PHP"
+    width="100%"
   />
 </p>
 
@@ -86,16 +85,21 @@
 <p align="center">
   <a href="https://github.com/ummasalmamim">
     <img
-      src="https://img.shields.io/badge/GitHub-ummasalmamim-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub profile"
+      src="./assets/github-connect-card.svg"
+      alt="Connect with Umma Salma Mim on GitHub"
+      width="49%"
     />
   </a>
   <a href="https://www.linkedin.com/in/umma-salma-mim-266378291/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Umma%20Salma%20Mim-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"
-      alt="LinkedIn profile"
+      src="./assets/linkedin-connect-card.svg"
+      alt="Connect with Umma Salma Mim on LinkedIn"
+      width="49%"
     />
   </a>
+</p>
+
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"
     alt="Profile views"
@@ -198,7 +202,5 @@
 
 <!-- =========================== FOOTER =========================== -->
 <div align="center">
-  <strong>Code • Create • Improve • Repeat</strong>
-  <br><br>
   <sub>Thanks for visiting my GitHub profile. ✨</sub>
 </div>
