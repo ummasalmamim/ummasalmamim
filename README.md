@@ -70,26 +70,11 @@
 </p>
 
 <!-- ======================= CURRENT FOCUS ======================= -->
-<h2 align="center">🎯 Current Focus</h2>
-
 <p align="center">
   <img
-    src="https://img.shields.io/badge/WORKING%20ON-Computer%20Vision%20Project-000000?style=for-the-badge&logo=opencv&logoColor=00F7FF"
-    alt="Currently working on a Computer Vision project"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/LEARNING-JavaScript%20%E2%80%A2%20React%20%E2%80%A2%20Unix%20%E2%80%A2%20AI%20Pipelines-000000?style=for-the-badge&logo=academia&logoColor=A855F7"
-    alt="Currently learning JavaScript, React, Unix and AI Pipelines"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/ASK%20ME%20ABOUT-Python%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20PHP-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF1493"
-    alt="Ask me about Python, HTML, CSS and PHP"
+    src="./assets/current-focus-card.svg"
+    alt="Currently working on a Computer Vision project; currently learning JavaScript, React, Unix and AI Pipelines; ask me about Python, HTML, CSS and PHP"
+    width="100%"
   />
 </p>
 
