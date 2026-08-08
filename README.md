@@ -102,12 +102,19 @@
 <br>
 
 <!-- =========================== PROFILE VIEWS =========================== -->
-<!-- The live number is displayed inside this same badge-card. -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"
-    alt="Umma Salma Mim profile views"
-    height="42"
+    src="./assets/profile-views-card.svg"
+    alt="15 profile views — thank you for being part of my coding journey"
+    width="100%"
+  />
+
+  <!-- Hidden 1×1 live counter keeps recording profile visits. -->
+  <img
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=000000&style=flat"
+    alt=""
+    width="1"
+    height="1"
   />
 </p>
 
