@@ -1,6 +1,5 @@
-
-
 <!-- ========================= HERO IMAGE ========================= -->
+
 <p align="center">
   <img
     src="https://img.magnific.com/premium-photo/lofi-girl-student-studying-desk-with-book-meteor-starfall-night-anime-manga-style-wallpaper_598925-8674.jpg"
@@ -10,30 +9,32 @@
 </p>
 
 <!-- ====================== ANIMATED INTRODUCTION ====================== -->
+
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=30&duration=2500&pause=800&color=00F7FF&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Welcome+to+My+GitHub+Profile+%E2%9C%A8;Hi+there+%F0%9F%91%8B%2C+I%27m+UMMA+SALMA+MIM;Creating+%E2%80%A2+Learning+%E2%80%A2+Growing+%F0%9F%9A%80"
     alt="Animated introduction of Umma Salma Mim"
   />
 
-  <br><br>
+<br><br>
 
-  <img
-    src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=00F7FF"
-    alt="Developer"
-  />
-  <img
-    src="https://img.shields.io/badge/CREATIVE%20THINKER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"
-    alt="Creative Thinker"
-  />
-  <img
-    src="https://img.shields.io/badge/ALWAYS%20LEARNING-000000?style=for-the-badge&logo=bookstack&logoColor=FF1493"
-    alt="Always Learning"
-  />
+<img
+ src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=00F7FF"
+ alt="Developer"
+/><img
+ src="https://img.shields.io/badge/CREATIVE%20THINKER-000000?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"
+ alt="Creative Thinker"
+/><img
+ src="https://img.shields.io/badge/ALWAYS%20LEARNING-000000?style=for-the-badge&logo=bookstack&logoColor=FF1493"
+ alt="Always Learning"
+/>
+
+</div>
 
 <br>
 
 <!-- ============================ EDUCATION ============================ -->
+
 <p align="center">
   <img
     src="./assets/education-card.svg"
@@ -43,6 +44,7 @@
 </p>
 
 <!-- ====================== PASSION AND INTERESTS ====================== -->
+
 <p align="center">
   <img
     src="./assets/interests-card.svg"
@@ -52,6 +54,7 @@
 </p>
 
 <!-- ============================== SKILLS ============================== -->
+
 <p align="center">
   <img
     src="./assets/skills-card.svg"
@@ -61,6 +64,7 @@
 </p>
 
 <!-- ========================== CURRENT FOCUS ========================== -->
+
 <p align="center">
   <img
     src="./assets/current-focus-card.svg"
@@ -93,16 +97,18 @@
 <br>
 
 <!-- =========================== PROFILE VIEWS =========================== -->
+
 <p align="center">
   <img
-    src="./assets/profile-views-card.svg"
-    alt="Profile Views"
-    width="100%"
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&abbreviated=true"
+    alt="Umma Salma Mim profile views"
   />
 </p>
+
 <br>
 
 <!-- ========================= GITHUB STATISTICS ========================= -->
+
 <p align="center">
   <img
     src="./assets/github-statistics-card.svg"
@@ -131,6 +137,7 @@
 <br>
 
 <!-- ====================== MY PROGRAMMING LANGUAGES ====================== -->
+
 <p align="center">
   <img
     src="./assets/programming-languages-card.svg"
@@ -153,6 +160,7 @@
 <br>
 
 <!-- ========================= CONTRIBUTION BADGE ========================= -->
+
 <p align="center">
   <img
     src="./assets/contribution-badge-card.svg"
@@ -171,6 +179,7 @@
 <br>
 
 <!-- =========================== GITHUB STREAK =========================== -->
+
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=700&color=00F7FF&background=000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%9A%A1+My+GitHub+Contribution+Streak;%F0%9F%94%A5+Coding+Every+Day;%F0%9F%9A%80+Consistency+Creates+Success"
@@ -186,12 +195,12 @@
       width="650"
     />
   </a>
-
 </div>
 
 <br>
 
 <!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+
 <p align="center">
   <img
     src="./assets/contribution-activity-card.svg"
@@ -203,7 +212,7 @@
 <div align="center">
   <a href="https://github.com/ummasalmamim">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ummasalmamim&bg_color=000000&color=C9D1D9&title_color=00F7FF&line=8B5CF6&point=00F7FF&area_color=8B5CF6&area=true&hide_border=false&border_color=30363D&radius=16&custom_title=Umma%20Salma%27s%20Contribution%20Journey"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ummasalmamim&bg_color=000000&color=C9D1D9&title_color=00F7FF&line=FF00E5&point=00F7FF&area_color=A855F7&area=true&hide_border=false&border_color=30363D&radius=16&custom_title=Umma%20Salma%27s%20Contribution%20Journey"
       alt="My GitHub contribution activity graph"
       width="100%"
     />
@@ -213,6 +222,7 @@
 <br>
 
 <!-- ============================== FOOTER ============================== -->
+
 <div align="center">
   <sub>Thanks for visiting my GitHub profile. ✨</sub>
 </div>
