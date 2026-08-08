@@ -100,10 +100,20 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&abbreviated=true"
-    alt="Umma Salma Mim profile views"
+    src="./assets/profile-views-card.svg"
+    alt="Profile Views"
+    width="100%"
   />
 </p>
+
+<!-- Hidden live profile-view tracker; the visible custom card above is unchanged. -->
+
+<img
+src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=00000000&style=flat-square"
+alt=""
+width="1"
+height="1"
+/>
 
 <br>
 
