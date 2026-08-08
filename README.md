@@ -31,11 +31,6 @@
     alt="Always Learning"
   />
 
-  <br><br>
-
-  <strong>⚡ Turning ideas into meaningful digital experiences.</strong>
-</div>
-
 <br>
 
 <!-- ============================ EDUCATION ============================ -->
@@ -105,14 +100,6 @@
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"
-    alt="Umma Salma Mim profile views"
-  />
-</p>
-
 <br>
 
 <!-- ========================= GITHUB STATISTICS ========================= -->
@@ -200,12 +187,6 @@
     />
   </a>
 
-  <br><br>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&background=000000&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Consistency+%E2%80%A2+Creativity+%E2%80%A2+Continuous+Growth"
-    alt="Consistency, creativity and continuous growth"
-  />
 </div>
 
 <br>
