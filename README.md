@@ -100,20 +100,11 @@
 
 <p align="center">
   <img
-    src="./assets/profile-views-card.svg"
+    src="https://YOUR-VERCEL-PROJECT.vercel.app/api/profile-views"
     alt="Profile Views"
     width="100%"
   />
 </p>
-
-<!-- Hidden live profile-view tracker; the visible custom card above is unchanged. -->
-
-<img
-src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=00000000&style=flat-square"
-alt=""
-width="1"
-height="1"
-/>
 
 <br>
 
@@ -222,7 +213,7 @@ height="1"
 <div align="center">
   <a href="https://github.com/ummasalmamim">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ummasalmamim&bg_color=000000&color=C9D1D9&title_color=00F7FF&line=FF00E5&point=00F7FF&area_color=A855F7&area=true&hide_border=false&border_color=30363D&radius=16&custom_title=Umma%20Salma%27s%20Contribution%20Journey"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ummasalmamim&bg_color=030303&color=C9D1D9&title_color=00E5FF&line=EC4899&point=00E5FF&area_color=7C3AED&area=true&hide_border=false&border_color=7C3AED&radius=16&custom_title=Umma%20Salma%27s%20Contribution%20Journey"
       alt="My GitHub contribution activity graph"
       width="100%"
     />
