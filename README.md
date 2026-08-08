@@ -1,7 +1,4 @@
-<!-- =========================================================
-     UMMA SALMA MIM — BLACK THEME GITHUB PROFILE README
-     GitHub username: ummasalmamim
-========================================================== -->
+
 
 <!-- ========================= HERO IMAGE ========================= -->
 <p align="center">
@@ -80,7 +77,6 @@
 <br>
 
 <!-- ========================= CONNECT WITH ME ========================= -->
-<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/ummasalmamim">
@@ -105,16 +101,15 @@
 <p align="center">
   <img
     src="./assets/profile-views-card.svg"
-    alt="15 profile views — thank you for being part of my coding journey"
+    alt="Profile Views"
     width="100%"
   />
+</p>
 
-  <!-- Hidden 1×1 live counter keeps recording profile visits. -->
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=000000&style=flat"
-    alt=""
-    width="1"
-    height="1"
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"
+    alt="Umma Salma Mim profile views"
   />
 </p>
 
@@ -140,7 +135,7 @@
   <a href="https://github.com/ummasalmamim?tab=repositories">
     <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=ummasalmamim&layout=compact&langs_count=8&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&border_color=30363D&border_radius=16"
-      alt="Umma Salma Mim's most used languages"
+      alt="My most used languages"
       height="180"
     />
   </a>
@@ -182,7 +177,7 @@
 <p align="center">
   <img
     src="https://api.vaunt.dev/v1/github/entities/ummasalmamim/contributions?format=svg&private=true"
-    alt="Umma Salma Mim's Vaunt contribution badge"
+    alt="My Vaunt contribution badge"
   />
 </p>
 
@@ -228,7 +223,7 @@
   <a href="https://github.com/ummasalmamim">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=ummasalmamim&bg_color=000000&color=C9D1D9&title_color=00F7FF&line=8B5CF6&point=00F7FF&area_color=8B5CF6&area=true&hide_border=false&border_color=30363D&radius=16&custom_title=Umma%20Salma%27s%20Contribution%20Journey"
-      alt="Umma Salma Mim's GitHub contribution activity graph"
+      alt="My GitHub contribution activity graph"
       width="100%"
     />
   </a>
@@ -238,7 +233,5 @@
 
 <!-- ============================== FOOTER ============================== -->
 <div align="center">
-  <strong>Code • Create • Improve • Repeat</strong>
-  <br><br>
   <sub>Thanks for visiting my GitHub profile. ✨</sub>
 </div>
