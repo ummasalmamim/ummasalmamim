@@ -19,7 +19,7 @@
     alt="Animated introduction of Umma Salma Mim"
   />
 
-  <br><br>
+  <br>
 
   <img
     src="https://img.shields.io/badge/DEVELOPER-000000?style=for-the-badge&logo=github&logoColor=00F7FF"
@@ -34,7 +34,7 @@
     alt="Always Learning"
   />
 
-  <br><br>
+  <br><
 
   <strong>⚡ Turning ideas into meaningful digital experiences.</strong>
 </div>
