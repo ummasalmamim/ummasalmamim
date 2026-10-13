@@ -1,4 +1,3 @@
-
 <!-- =========================================================
      UMMA SALMA MIM — BLACK THEME GITHUB PROFILE README
      GitHub username: ummasalmamim
@@ -103,25 +102,21 @@
 <br>
 
 <!-- =========================== PROFILE VIEWS =========================== -->
-
-<div align="center">
-
-  <h2>👁️ PROFILE VIEWS</h2>
-
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
-    alt="Live GitHub profile views"
+    src="./assets/profile-views-card.svg"
+    alt="15 profile views — thank you for being part of my coding journey"
+    width="100%"
   />
 
-  <br><br>
-
-  <strong>Visitors and counting</strong>
-
-  <br>
-
-  <strong>💗 Thank you for being part of my coding journey.</strong>
-
-</div>
+  <!-- Hidden 1×1 live counter keeps recording profile visits. -->
+  <img
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=000000&style=flat"
+    alt=""
+    width="1"
+    height="1"
+  />
+</p>
 
 <br>
 
