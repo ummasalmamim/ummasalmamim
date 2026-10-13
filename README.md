@@ -117,6 +117,26 @@
 
   <strong>Visitors and counting</strong>
 
+  <br><br>
+
+</div>
+
+<br>
+
+<!-- =========================== PROFILE VIEWS =========================== -->
+<div align="center">
+
+  <h2>👁️ PROFILE VIEWS</h2>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
+    alt="Live GitHub Profile Views"
+  />
+
+  <br><br>
+
+  <strong>Visitors and counting</strong>
+
 <br>
 
 
