@@ -104,41 +104,21 @@
 <!-- =========================== PROFILE VIEWS =========================== -->
 
 <!-- =========================== PROFILE VIEWS =========================== -->
-<div align="center">
-
-  <h2>👁️ PROFILE VIEWS</h2>
-
+<p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
-    alt="Live GitHub Profile Views"
+    src="./assets/profile-views-card.svg"
+    alt="Live GitHub Profile Views with Last Updated Date"
+    width="100%"
   />
 
-  <br><br>
-
-  <strong>Visitors and counting</strong>
-
-  <br><br>
-
-</div>
-
-<br>
-
-<!-- =========================== PROFILE VIEWS =========================== -->
-<div align="center">
-
-  <h2>👁️ PROFILE VIEWS</h2>
-
+  <!-- Hidden visit counter -->
   <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
-    alt="Live GitHub Profile Views"
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&style=pixel"
+    alt=""
+    width="1"
+    height="1"
   />
-
-  <br><br>
-
-  <strong>Visitors and counting</strong>
-
-<br>
-
+</p>
 
 <br>
 
