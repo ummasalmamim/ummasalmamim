@@ -102,21 +102,23 @@
 <br>
 
 <!-- =========================== PROFILE VIEWS =========================== -->
-<p align="center">
+
+<!-- =========================== PROFILE VIEWS =========================== -->
+<div align="center">
+
+  <h2>👁️ PROFILE VIEWS</h2>
+
   <img
-    src="./assets/profile-views-card.svg"
-    alt="15 profile views — thank you for being part of my coding journey"
-    width="100%"
+    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
+    alt="Live GitHub Profile Views"
   />
 
-  <!-- Hidden 1×1 live counter keeps recording profile visits. -->
-  <img
-    src="https://komarev.com/ghpvc/?username=ummasalmamim&label=&color=000000&style=flat"
-    alt=""
-    width="1"
-    height="1"
-  />
-</p>
+  <br><br>
+
+  <strong>Visitors and counting</strong>
+
+<br>
+
 
 <br>
 
